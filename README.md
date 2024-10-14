@@ -1,6 +1,7 @@
 # Call-Center-Insights-Dashboard-Power-BI
 
- ![Call_centre_trends](https://github.com/user-attachments/assets/cce8e399-de5b-4d6d-9bc2-62c48c9a2a54)
+![Call_Centre_trend_dashboard](https://github.com/user-attachments/assets/0d102d7c-d910-4c8f-82a8-47e6425022e0)
+
 
  ## Data used:
 *  **Data** - Call Cente Data with ver 5000 rows.
