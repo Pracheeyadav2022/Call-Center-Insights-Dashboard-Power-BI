@@ -9,6 +9,11 @@
 *  **Data Visualization** - Power BI
 
 ## Questions:
+Made the dashboard after understanding the requirements of client.
+
+
+
+![Questions](https://github.com/user-attachments/assets/849ef7b9-8661-4e1b-a61f-bcd8b3ddde77)
 
 
 
